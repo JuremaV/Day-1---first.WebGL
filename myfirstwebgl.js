@@ -1,3 +1,4 @@
+// Ju
 const canvas = document.querySelector(`canvas`);
 const webgl = canvas.getContext(`webgl`);
 if(!webgl){ throw new Error("Webgl not available/suported");}
